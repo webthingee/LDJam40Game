@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "LDJam40Game.data.unityweb",
+"asmCodeUrl": "LDJam40Game.asm.code.unityweb",
+"asmMemoryUrl": "LDJam40Game.asm.memory.unityweb",
+"asmFrameworkUrl": "LDJam40Game.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
